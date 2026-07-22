@@ -28,7 +28,7 @@ This repository is the alternative: **governance controls as code, versioned in 
 
 | Component | Status | Notes |
 |---|---|---|
-| Thesis paper | 🟢 v0.1 | docs/thesis-v0.1.md |
+| Thesis paper | 🟢 v0.1 | ./docs/thesis-v0.1.md |
 | BFSI Rego bundle | ⚪ Planned | SR 11-7 · RBI FREE-AI · EU AI Act Annex III · DORA |
 | Pharma Rego bundle | ⚪ Planned | 21 CFR Part 11 · EMA-FDA GAIP · GMLP · GAMP 5 |
 | Cross-framework crosswalks | ⚪ Planned | NIST AI RMF · ISO/IEC 42001 · EU AI Act · SR 11-7 · RBI FREE-AI · Part 11 |
