@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30225494/README.md)
 # ai-governance-as-code
 
 **Policy-as-Code and Governance-as-Code for AI in regulated industries.**
@@ -29,6 +28,7 @@ This repository is the alternative: **governance controls as code, versioned in 
 | Component | Status | Notes |
 |---|---|---|
 | Thesis paper | 🟢 v0.1 | [./docs/thesis-v0.1.md](./docs/thesis-v0.1.md) |
+| Executive brief | 🟢 v0.1 | [Markdown brief](./exec/executive-brief.md) · [PowerPoint brief](./exec/executive-brief.pptx) |
 | BFSI Rego bundle | ⚪ Planned | SR 11-7 · RBI FREE-AI · EU AI Act Annex III · DORA |
 | Pharma Rego bundle | ⚪ Planned | 21 CFR Part 11 · EMA-FDA GAIP · GMLP · GAMP 5 |
 | Cross-framework crosswalks | ⚪ Planned | NIST AI RMF · ISO/IEC 42001 · EU AI Act · SR 11-7 · RBI FREE-AI · Part 11 |
